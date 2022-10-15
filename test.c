@@ -1,2 +1,2 @@
 #include <stdio.h>
-{ printf("hello Everyone");}
+{ printf("All the best");}
